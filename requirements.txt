@@ -1,0 +1,6 @@
+crewai
+yfinance
+streamlit
+python-dotenv
+markdown
+requests
